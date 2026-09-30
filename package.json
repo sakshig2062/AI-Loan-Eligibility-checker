@@ -1,0 +1,8 @@
+{
+  "name": "finwise-loan-eligibility-checker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/financial-logic.test.mjs"
+  }
+}
